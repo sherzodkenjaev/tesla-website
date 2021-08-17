@@ -1,20 +1,33 @@
 {
   "files": {
     "main.css": "/tesla-website/static/css/main.08614e35.chunk.css",
-    "main.js": "/tesla-website/static/js/main.be41d3c3.chunk.js",
-    "main.js.map": "/tesla-website/static/js/main.be41d3c3.chunk.js.map",
+    "main.js": "/tesla-website/static/js/main.f586fb5f.chunk.js",
+    "main.js.map": "/tesla-website/static/js/main.f586fb5f.chunk.js.map",
     "runtime-main.js": "/tesla-website/static/js/runtime-main.0d7d812a.js",
     "runtime-main.js.map": "/tesla-website/static/js/runtime-main.0d7d812a.js.map",
     "static/js/2.0e350da6.chunk.js": "/tesla-website/static/js/2.0e350da6.chunk.js",
     "static/js/2.0e350da6.chunk.js.map": "/tesla-website/static/js/2.0e350da6.chunk.js.map",
     "index.html": "/tesla-website/index.html",
     "static/css/main.08614e35.chunk.css.map": "/tesla-website/static/css/main.08614e35.chunk.css.map",
-    "static/js/2.0e350da6.chunk.js.LICENSE.txt": "/tesla-website/static/js/2.0e350da6.chunk.js.LICENSE.txt"
+    "static/js/2.0e350da6.chunk.js.LICENSE.txt": "/tesla-website/static/js/2.0e350da6.chunk.js.LICENSE.txt",
+    "static/media/accessories.027ada94.jpg": "/tesla-website/static/media/accessories.027ada94.jpg",
+    "static/media/audio.93bbd962.jpg": "/tesla-website/static/media/audio.93bbd962.jpg",
+    "static/media/baggage.83e32752.jpg": "/tesla-website/static/media/baggage.83e32752.jpg",
+    "static/media/connected.e908d655.jpg": "/tesla-website/static/media/connected.e908d655.jpg",
+    "static/media/down-arrow.9b52668f.svg": "/tesla-website/static/media/down-arrow.9b52668f.svg",
+    "static/media/game.80315756.jpg": "/tesla-website/static/media/game.80315756.jpg",
+    "static/media/logo.a7b59bc6.svg": "/tesla-website/static/media/logo.a7b59bc6.svg",
+    "static/media/model-3.30651f79.jpg": "/tesla-website/static/media/model-3.30651f79.jpg",
+    "static/media/model-s.b65171b9.jpg": "/tesla-website/static/media/model-s.b65171b9.jpg",
+    "static/media/model-x.25937b94.jpg": "/tesla-website/static/media/model-x.25937b94.jpg",
+    "static/media/model-y.30acb76a.jpg": "/tesla-website/static/media/model-y.30acb76a.jpg",
+    "static/media/solar-panel.d7d441d7.jpg": "/tesla-website/static/media/solar-panel.d7d441d7.jpg",
+    "static/media/solar-roof.acfd9045.jpg": "/tesla-website/static/media/solar-roof.acfd9045.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.0d7d812a.js",
     "static/js/2.0e350da6.chunk.js",
     "static/css/main.08614e35.chunk.css",
-    "static/js/main.be41d3c3.chunk.js"
+    "static/js/main.f586fb5f.chunk.js"
   ]
 }
