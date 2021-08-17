@@ -2,6 +2,7 @@ import React from "react";
 import styled from "styled-components";
 import Fade from "react-reveal/Fade";
 import { ExposurePlus1 } from "@material-ui/icons";
+import arrow from "../images/down-arrow.svg";
 
 function Models({
   title,
@@ -62,7 +63,7 @@ function Models({
               {rightButton && <ButtonRight>{rightButton}</ButtonRight>}
             </ButtonGroup>
           </Fade>
-          <DownArrow src="/images/down-arrow.svg" />
+          <DownArrow src={arrow} />
         </Buttons>
       </Wrap>
       <SecondPage>
@@ -109,12 +110,12 @@ const Wrap = styled.div`
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  background-image: url("/images/" + {image});
+  background-image: url({image});
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
-  background-image: ${(props) => `url("/images/${props.bgImage}")`};
+  background-image: ${(props) => `url("${props.bgImage}")`};
 `;
 
 const ItemText = styled.div`

@@ -1,6 +1,11 @@
 import React from "react";
 import styled from "styled-components";
 import Models from "./Models";
+import solar from "../images/solar-panel.jpg";
+import connected from "../images/connected.jpg";
+import game from "../images/game.jpg";
+import audio from "../images/audio.jpg";
+import baggage from "../images/baggage.jpg";
 
 function SolarPanels() {
   return (
@@ -10,11 +15,11 @@ function SolarPanels() {
           title="Lowest Cost Solar Panel in America"
           description="Money-back guarantee"
           rightButton="Order Now"
-          image="solar-panel.jpg"
-          src="/images/game.jpg"
-          src1="/images/connected.jpg"
-          src2="/images/audio.jpg"
-          src3="/images/baggage.jpg"
+          image={solar}
+          src={game}
+          src1={connected}
+          src2={audio}
+          src3={baggage}
           h1="Game from Anywhere"
           p1="Up to 10 teraflops of processing power enables in-car gaming on-par with today’s newest consoles. Wireless controller compatibility lets you game from any seat."
           h2="Stay Connected"

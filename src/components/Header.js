@@ -6,6 +6,7 @@ import { Close } from "@material-ui/icons";
 import { useSelector } from "react-redux";
 import { selectCars } from "../features/car/carSlice";
 import { Link } from "react-router-dom";
+import logo from "../images/logo.svg";
 
 function Header() {
   const [isBurger, setIsBurger] = useState(false);
@@ -22,7 +23,7 @@ function Header() {
   return (
     <Container>
       <Link to="/">
-        <img src="/images/logo.svg" />
+        <img src={logo} />
       </Link>
 
       <Menu>
